@@ -28,7 +28,7 @@ python -m venv venv
 - **Windows**: `.\venv\Scripts\activate`
 - **macOS/Linux**: `source venv/bin/activate`
 
-3. Install the required dependencies:
+3. Install the required dependencies (Install the requirments.txt file):
 ```bash
 pip install pandas scikit-learn nltk
 ```
